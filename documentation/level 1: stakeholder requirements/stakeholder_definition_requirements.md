@@ -59,7 +59,7 @@ The system shall accept a configurable minimum and maximum temperature threshold
 (S1-N7)
 
 SH-REQ-10:
-The system shall inform the user if the humidity falls outside of the configured min/max humidity range.
+The system shall inform the user if the temperature falls outside of the configured min/max temperature range.
 (S1-N7)
 
 SH-REQ-11:
@@ -95,5 +95,5 @@ The system shall reset and restart if a corrupted state is detected.
 (S3-N3)
 
 SH-REQ-19:
-he system shall minimize its network exposure to threats originating outside the local network.
+The system shall minimize its network exposure to threats originating outside the local network.
 (S3-N4)
