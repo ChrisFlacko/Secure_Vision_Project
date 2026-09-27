@@ -19,6 +19,10 @@ SYS-REQ-5:
 When a person is detected within range, the system shall complete classification within 5 seconds.
 (SH-REQ-2)
 
+SYS-REQ-31:
+When a person is detected within range, the system shall take 5 photos with a time delay of 1 second each.
+(SH-REQ-2)
+
 SYS-REQ-6:
 The system shall determine, for each classified face, whether it matches a known person or is unknown.
 (SH-REQ-2)
